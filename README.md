@@ -11,3 +11,5 @@ These projects demonstrate my ability to analyze and present data in a clear and
 For the Data Analyst course at Naya academy, the project is to help the City of New York analyze the enforcement of parking violations in its territory with the tools we used and present it.
 
 Thank you for your time, I look forward to hearing from you soon.
+
+lets connect through Linkedin : [Roy Genis](url)
