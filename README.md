@@ -8,6 +8,6 @@ I'm passionate about data, challenge my skills and knowledge and have a high wil
 In this portfolio, I have included a variety of projects that showcase my data analytics skills. You will find links of the dashboards and reports I have created using various tools such as Power BI, SQL, and Excel. 
 These projects demonstrate my ability to analyze and present data in a clear and visually appealing way, making it easy for decision makers to understand the insights and take action.
 
-For the Data Analyst course, the project is to help the City of New York analyze the enforcement of parking violations in its territory with the tools we used and present it.
+For the Data Analyst course at Naya academy, the project is to help the City of New York analyze the enforcement of parking violations in its territory with the tools we used and present it.
 
 Thank you for your time, I look forward to hearing from you soon.
