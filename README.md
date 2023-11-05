@@ -1,5 +1,5 @@
 # Naya_Project
-Hi, I'm Roy! I have a technical background and hold an M.B.A degree from IDC, with a major in Organizational consulting. 
+Hi, I'm Roy! I have a technical background and hold an M.B.A degree from IDC, with a major in Business consulting. 
 In my M.B.A, I was in an entrepreneurship program where I revealed the Data world. This led me to transform to Data Analysis. I am currently a Data Analyst at a large health organization.
 
 I am a data analyst with 3 years experience in using various tools and technologies to collect, organize, and analyze data to inform business decisions. I am proficient in Python, R, SQL, Excel, Power BI, and Tableau, and have a solid understanding of data analytics techniques such as dashboard building, report writing, data merging, statistics, and critical thinking.
