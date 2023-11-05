@@ -1,5 +1,4 @@
 # Naya_Project
-Data Analyst Course - End Project
 Hi, I'm Roy! I have a technical background and hold an M.B.A degree from IDC, with a major in Organizational consulting. 
 In my M.B.A, I was in an entrepreneurship program where I revealed the Data world. This led me to transform to Data Analysis. I am currently a Data Analyst at a large health organization.
 
